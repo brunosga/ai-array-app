@@ -1,11 +1,12 @@
 This is a simple ReactJS application that displays a list of top soccer players. It allows users to view player details and delete players from the list.
 
 ## Table of Contents
-- [About]
-- [Features]
-- [Installation]
-- [Contributing]
-- [License]
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About
 The AI Array App is built using ReactJS. It showcases a table of top soccer players, their details, and provides functionalities to view player details and remove players from the list.
