@@ -1,0 +1,40 @@
+/* Tables */
+.data-table {
+    border-collapse: collapse;
+    font-size: 18px;
+    width: 100%;
+    overflow: scroll; 
+    margin-bottom: 56px;
+    border: solid 1px #888;
+    box-shadow: 8px 8px 8px #888;  
+}
+
+.data-table th, .data-table td { 
+    padding: 8px 18px;
+    border-bottom: solid 1px #222 
+}
+
+.data-table th { 
+    background-color: #fffceb;
+    font-weight: 700;
+    text-align: left;
+}
+
+.data-table tr:nth-child(odd)  { background-color: #fff }
+.data-table tr:nth-child(even) { background-color: #E1E4E7 }
+
+.data-table tr button {
+    padding: 6px 12px;
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+}
+
+.data-table tr button:hover,
+.data-table tr button:focus {
+    background-color: darkblue;
+}
+
+.data-table tr button.delete {
+    background-color: red;
+}
